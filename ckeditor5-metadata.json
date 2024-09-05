@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    {
+      "name": "Rnibtablemarkup",
+      "className": "Rnibtablemarkup",
+      "description": "Adds text to the editor.",
+      "path": "src/rnibtablemarkup.js",
+      "uiComponents": [
+        {
+          "name": "rnibtablemarkupButton",
+          "type": "Button",
+          "iconPath": "theme/icons/ckeditor.svg"
+        }
+      ]
+    }
+  ]
+}
